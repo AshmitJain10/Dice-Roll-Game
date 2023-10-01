@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice Roll</string>
+    <string name="str_one">1</string>
+    <string name="str_roll">ROLL</string>
+    <string name="str_image_desc_one">Dice one</string>
+    <string name="str_image_desc_two">Dice two</string>
+</resources>
